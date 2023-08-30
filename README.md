@@ -13,8 +13,8 @@ The RContract DApp is built using Hardhat and React. It consists of a smart cont
 To download the project, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/riyamishraa/Intermediate_module_2/tree/main
-```
+
+```](https://github.com/adityasharma-93/Intermediate-mod-2/
 
 After cloning the repository, navigate to the project's root directory.
 
@@ -24,24 +24,20 @@ To run the DApp, follow these steps:
 
 1. Install the project dependencies by running the following command:
 
-   ```
    npm install
-   ```
+
 2. Start a blockchain locally by running the command: 
-   ```
+   
    npx hardhat node
-   ```
 
 3. Deploy the RContract smart contract by running the deployment script:
 
-   ```
    npx hardhat run scripts/deploy.js --network localhost
-   ```
+
 4. Go to frontend directory by running the command:
 
-   ```
    cd ./frontend
-   ```
+
 5. Install the project dependencies by running the following command:
 
    ```
@@ -59,9 +55,8 @@ To run the DApp, follow these steps:
 
 If you encounter any issues or have any questions, you can refer to the project's documentation or seek help from the project contributors.
 
-## Authors
-
-- [Riya Mishra](https://www.linkedin.com/in/riya-mishra-a2b6ab213/)
+## Author
+Aditya Sharma
 
 ## License
 
